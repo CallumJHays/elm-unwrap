@@ -8,7 +8,7 @@ present.
 
 # Installation
 ```bash
-elm package install callumjhays/elm-unwrap
+elm package install CallumJHays/elm-unwrap
 ```
 
 # Functions

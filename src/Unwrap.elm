@@ -7,7 +7,7 @@ and time again, so I thought to separate it out into a package.
 Only use these if the program SHOULD crash in the case of the value not being
 present.
 
-# functions
+# Functions
 @docs maybe, result
 -}
 
