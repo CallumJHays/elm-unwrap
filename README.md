@@ -1,4 +1,4 @@
-# elm-unwrap
+# `elm-unwrap`
 This library provides quick functions for uunwrapping value wrapper
 types such as Maybe and Result types. I have found myself rewriting this time
 and time again, so I thought to separate it out into a package.
